@@ -4,3 +4,4 @@ numpy==1.25.0
 Pillow
 matplotlib
 seaborn==0.12.2
+plotly
