@@ -1,8 +1,8 @@
 streamlit
-pandas==2.0.3
-numpy==1.25.0
+pandas
+numpy
 Pillow
 matplotlib
-seaborn==0.12.2
+seaborn
 plotly
 scikit-learn
